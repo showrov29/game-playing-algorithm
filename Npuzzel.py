@@ -26,6 +26,6 @@ if(isSolvable(matrix)) :
 else :
     print("Not Solvable")
 
-
+#tiktiki bokachuda
     
 
